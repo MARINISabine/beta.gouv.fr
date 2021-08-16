@@ -10,4 +10,5 @@ startups:
   - appel.1
 competences:
   - Administration Publique
+"Rendre le service public dans le domaine de l'hébergement"
 ---
